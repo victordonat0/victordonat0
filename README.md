@@ -52,5 +52,5 @@
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/victordonat0)
 <br/>
-   <h3><p align="center">Este perfil foi visitado: Desde 06.10.2022</p> <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/hackerprod/count.svg"/> </p>
+   <h3><p align="center">Este perfil foi visitado: Desde 06.10.2022</p> <p align="center"> <img alingn="center" src="https://profile-counter.glitch.me/victordonat0/count.svg"/> </p>
 ---
